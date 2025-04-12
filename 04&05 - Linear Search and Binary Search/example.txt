@@ -1,0 +1,5 @@
+Java is a programming language.
+I love learning Java.
+Java is fun and interesting.
+Learning Java is fun!
+Java has many features.
